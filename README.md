@@ -1,5 +1,6 @@
-# Picnic Greenfield
 ![Picnic Logo](docs/picnic_logo.png)
+
+# Picnic Greenfield
 
 ### Table of contents
 
